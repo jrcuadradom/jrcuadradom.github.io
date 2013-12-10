@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://jrcuadradom.github.io/atom.xml" rel="self"/>
+  <link href="http://jrcuadradom.github.io/"/>
+  <updated>2013-12-10T08:02:29-05:00</updated>
+  <id>http://jrcuadradom.github.io/</id>
+  <author>
+    <name><![CDATA[Julian Cuadrado]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Mi Primer Blog]]></title>
+    <link href="http://jrcuadradom.github.io/blog/2013/12/10/mi-primer-blog/"/>
+    <updated>2013-12-10T00:05:11-05:00</updated>
+    <id>http://jrcuadradom.github.io/blog/2013/12/10/mi-primer-blog</id>
+    <content type="html"><![CDATA[<p>Hi these is my first blog using octopress!</p>
+
+<p>Here i go!!!!</p>
+]]></content>
+  </entry>
+  
+</feed>
